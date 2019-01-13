@@ -1,3 +1,4 @@
+a=10
 creatingnew test file 
 hello
 fhgdf
